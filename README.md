@@ -1,7 +1,7 @@
 # aboutechoesofuniverse
-# Welcome to Echoes of Website Created By Madhu Rayala and Echoes Team
+# Welcome to Echoes of Universe website Created By Madhu Rayala, Sreeja Yetukuri and Echoes Team from St. Joseph's High School, Khammam, India.
 ## What is this Website About?
-This Webiste is created to start a global transformation in the Academic World.This Webiste helps many Students access various resources related to their Syllabus,Homework Banks,Recordings of their Subjects.Along with this,they can access information related to Various Categories,Agriculture,Aerospace,Manufacturing,Finance,Food,Pharmacy,Law etc.
+This Webiste is created to start a global transformation in the Academic World.This Webiste helps many Students access various resources related to their Syllabus,Homework Banks,Recordings of their Subjects.Along with this,they can access information related to various Categories like Agriculture, Aerospace, Manufacturing, Finance, Food, Pharmacy, Law etc.
 
 <br>
 
